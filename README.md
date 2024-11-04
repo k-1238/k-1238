@@ -1,4 +1,5 @@
 👋 Hello! I'm Kal Kaudy
+
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and Project Manager with extensive experience across front-end, back-end, and mobile app development. I specialize in building highly interactive and scalable applications with modern frameworks and technologies. Let's build something great together!
 
 🌱 Are you looking for a highly skilled Front-End Developer with a proven track record of delivering robust, scalable, and responsive applications?
