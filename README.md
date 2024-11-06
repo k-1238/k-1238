@@ -16,6 +16,7 @@ I’m a highly skilled front-end developer with years of experience delivering s
 - 
 🚀 Recent Projects
 - **[Project 1] ( https://feefty.com ) **: A scalable eCommerce platform built with Next.js, Node.js, and Shopify integration.
+- **[Project 2] ( https://unik.style.com ) **: A scalable Fashion marketplace platform built with React.js,Typescript, TailwindCSS
   
 🔥 Areas of Expertise
 - Front-End Development: I excel in building highly interactive and performant user interfaces using React.js, Next.js, Vue.js, and Angular.
